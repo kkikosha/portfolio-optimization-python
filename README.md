@@ -1,4 +1,5 @@
 # Portfolio Optimization using Python
+Python project for investment portfolio optimization using Markowitz model and Monte Carlo simulation.
 
 ## Overview
 This project develops an investment portfolio strategy for a private investor with a conservative risk profile. The analysis combines portfolio optimization methods, Monte Carlo simulation, and long-term capital forecasting.
