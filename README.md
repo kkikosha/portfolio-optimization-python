@@ -69,4 +69,10 @@ results/ — generated charts and portfolio visualizations
 ![Forecast stage 2](results/forecast_stage2.png)
 
 ## My Contribution
-This project was completed as part of a team assignment. I participated in the analytical work, preparation of the portfolio strategy, and presentation of the results.
+
+This project was completed as part of a team assignment. My main contributions included:
+
+- implementing the portfolio model in Python  
+- performing portfolio calculations and financial analysis in Excel  
+- collecting and reviewing relevant academic and industry sources  
+- supporting the development and presentation of the portfolio strategy
